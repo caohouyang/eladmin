@@ -1,5 +1,5 @@
 -- ----------------------------
--- Records of menu
+-- Records of menutest
 -- ----------------------------
 
 INSERT INTO `menu` VALUES (82, b'0', '生成配置', 'generator/config', 36, 33, 'dev', 'generator/config/:tableName', b'1', b'1', 'GeneratorConfig', '2019-11-17 20:08:56', '', 1);
